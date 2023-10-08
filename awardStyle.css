@@ -1,0 +1,50 @@
+@media screen and (max-width: 800px) {
+
+    .gf-title{
+        margin-left: 13px;
+    }
+
+    .presented-title, .name{
+        margin-left: 13px;
+    }
+
+    .name{
+        font-size: 22px;
+    }
+
+    .excellence-text{
+        margin-left: 3px;
+    }
+
+    hr{
+        width: 250px;
+    }
+
+    img.img1, img.img2, img.img3, img.img4{
+        width: 80px;
+    }
+
+    img.img1{
+        margin-top: -900px;
+        margin-left: 50px;
+    }
+
+    img.img2{
+        margin-left: -100px;
+    }
+
+    img.img3{
+        margin-top: -950px;
+    }
+
+    img.img4{
+       margin-left: -100px;
+    }
+}
+
+@media screen and (max-width: 697px) {
+
+    img.img1, img.img2, img.img3, img.img4{
+        display: none;
+    }
+}
